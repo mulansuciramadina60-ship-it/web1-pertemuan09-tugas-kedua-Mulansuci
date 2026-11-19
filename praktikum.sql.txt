@@ -1,7 +1,7 @@
 -- Modul Praktikum Pemrograman Web I
 -- Pertemuan 9: Basis Data Relasional dan SQL CRUD
--- Nama: Nabila
--- NIM: 25012047
+-- Nama: Mulan Suci Ramadina
+-- NIM: 25012045
 -- Kelas: 25M11
 
 -- =========================================
